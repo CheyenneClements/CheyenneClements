@@ -1,8 +1,10 @@
-## Hi there 👋🏻 Im Cheyenne
+## Hi there 👋🏻 I'm Cheyenne
 
-Im an HR professional turned Data Analyst. I’m passionate about using data to uncover insights that help businesses solve problems and grow with a creative and strategic approach to data analysis. I enjoy exploring data to identify patterns, tell meaningful stories, and support better decision-making.
+An HR professional turned Data Analyst, I’m passionate about using data to uncover insights that help businesses solve problems and grow. I love being creative and strategic when approaching data and  enjoy exploring data to identify patterns, tell meaningful stories, and support better decision-making.
 
-I’m excited to continue developing innovative, data-driven solutions. Welcome to my GitHub — where creativity meets problem-solving through data!
+I’m excited to continue developing clever, data-driven solutions. 
+
+Welcome to my GitHub — where creativity meets problem-solving through data!
 
 <!--
 **CheyenneClements/CheyenneClements** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
