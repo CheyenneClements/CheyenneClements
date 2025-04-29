@@ -4,6 +4,8 @@
   
 
 ### <div align="center">
+Hi there 👋🏻 I’m Cheyenne!
+
 An HR professional turned Data Analyst, I’m passionate about using data to uncover insights that help businesses solve problems and grow. I love being creative and strategic when approaching data and  enjoy exploring data to identify patterns, tell meaningful stories, and support better decision-making.
 
 I’m excited to continue developing clever, data-driven solutions. 
@@ -23,11 +25,6 @@ Welcome to my GitHub — where creativity meets problem-solving through data!</d
 <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
 
 
 
