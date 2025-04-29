@@ -10,7 +10,7 @@ An HR professional turned Data Analyst, I’m passionate about using data to unc
 
 I’m excited to continue developing clever, data-driven solutions. 
 
-Welcome to my GitHub — where creativity meets problem-solving through data!</div>  
+Welcome to my GitHub — where creativity meets problem-solving. </div>  
   
 
 <br/>  
