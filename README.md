@@ -1,10 +1,10 @@
 <div align="center">
-<img src=https://github.com/CheyenneClements/CheyenneClements/blob/main/Git%20Hub.jpg" align="center" style="width: 100%" />
+<img src="https://github.com/CheyenneClements/CheyenneClements/blob/main/Git%20Hub.jpg" align="center" style="width: 100%" />
 </div>  
   
 
 ### <div align="center">
-Hi there 👋🏻 I’m Cheyenne!
+Hi there 👋🏻 I'm Cheyenne!
 
 An HR professional turned Data Analyst, I’m passionate about using data to uncover insights that help businesses solve problems and grow. I love being creative and strategic when approaching data and  enjoy exploring data to identify patterns, tell meaningful stories, and support better decision-making.
 
@@ -26,9 +26,4 @@ Welcome to my GitHub — where creativity meets problem-solving. </div>
 </div>
 
 
-
-
-
-
-----
 
