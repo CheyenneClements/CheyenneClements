@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/CheyenneClements/CheyenneClements/blob/80b8c33163a87019c8f97476aff0998811aac4b3/GitHub.jpg" align="center" style="width: 100%" />
+<img src=https://github.com/CheyenneClements/CheyenneClements/blob/main/Git%20Hub.jpg" align="center" style="width: 100%" />
 </div>  
   
 
